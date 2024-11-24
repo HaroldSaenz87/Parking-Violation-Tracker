@@ -1,0 +1,46 @@
+hudson 30 0
+ewillam 40 1
+gustavo 32 2
+aisha 28 2
+fhryan 60 3
+himes 45 3
+aamiraziz 60 3
+barjun 30 3
+left height = 2 right height = -1 not balanced
+250
+40.62
+aisha 5 2
+himes 30 3
+gustavo 40 2
+ricardo 20 1
+zkevin 25 2
+matthew 10 2
+janeesha 50 3
+muhammad 80 3
+left height = 2 right height = 2 balanced
+james 60 4
+left height = 2 right height = 3 not balanced
+luke 20 4
+535
+515
+37.33
+muhammad removed
+matthew 10 2
+muhammad not found
+matthew removed
+left height = 2 right height = 2 balanced
+janeesha 50 2
+ewillam removed
+barjun 30 1
+left height = 2 right height = 2 balanced
+barjun removed
+left height = 2 right height = 2 balanced
+aisha 5 1
+fhryan 60 3
+ewillam not found
+gustavo 40 2
+hudson removed
+zkevin 25 2
+himes 30 0
+195
+60

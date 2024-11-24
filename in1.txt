@@ -1,0 +1,47 @@
+46
+add hudson 30
+add ewillam 40
+add gustavo 32
+add aisha 28
+add fhryan 60
+add himes 45
+add aamiraziz 60
+add barjun 30
+height_balance
+calc_below happy
+average
+deduct aisha 23
+deduct himes 15
+add gustavo 8
+add ricardo 20
+add zkevin 25
+add matthew 10
+add janeesha 50
+add muhammad 80
+height_balance
+add james 60
+height_balance
+add luke 20
+calc_below ricardo
+calc_below muhammad
+average
+deduct muhammad 80
+search matthew
+search muhammad
+deduct matthew 15
+height_balance
+search janeesha
+deduct ewillam 41
+search barjun
+height_balance
+deduct barjun 30
+height_balance
+search aisha
+search fhryan
+deduct ewillam 20
+search gustavo
+deduct hudson 30
+search zkevin
+search himes
+calc_below himes
+calc_below aamiraziz
