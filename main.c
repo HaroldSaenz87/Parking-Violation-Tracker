@@ -1,4 +1,4 @@
-/* COP 3502C Assignment 5 
+/*
 This program is written by: HAROLD SAENZ  */ 
 
 
